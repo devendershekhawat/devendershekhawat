@@ -2,6 +2,10 @@ Hello! 👋🏽
 
 I'm Devender Shekhawat, but you can call me Dev.
 
+and this is my Beagle.
+
+![Cover pic](https://github.com/devendershekhawat/devendershekhawat/blob/main/Lak.jpg?raw=true)
+
 I'm a Senior Software Engineer at [Hashnode](https://hashnode.com). With over 6 years of experience in the industry, My primary focus has been on building robust and scalable frontends. I have a particular passion for developing rich content editors.
 
 I like writing technical blogs for teaching Javascript to beginners. Check it out [here](https://devcodesthings.hashnode.dev/).
