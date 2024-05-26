@@ -11,6 +11,14 @@ These are the latest articles I have written.
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716737266183/dbd82654-9444-43da-a337-6696cc607732.png" width="500" height="auto" /></td>
+			<td>
+				<sup>Sun May 26 2024</sup><br />
+				<b><a href="https://devcodesthings.hashnode.dev/state-management-with-recoil-a-comprehensive-guide" target="_blank">State Management with Recoil: A Comprehensive Guide</a></b>
+				<p>State management is a crucial aspect of developing robust and scalable applications, especially in complex front-end architectures. One of the emerging libraries in this domain is Recoil, developed by Facebook. Recoil aims to simplify state managemen...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716627690110/e0c6303c-f078-4fda-8bdc-73cd9cf6d515.jpeg" width="500" height="auto" /></td>
 			<td>
 				<sup>Sat May 25 2024</sup><br />
@@ -40,14 +48,6 @@ These are the latest articles I have written.
 				<sup>Sun Sep 17 2023</sup><br />
 				<b><a href="https://devcodesthings.hashnode.dev/what-are-preview-urls-and-why-you-should-use-them" target="_blank">What are preview URLs and why you should use them.</a></b>
 				<p>How does development happen in your organization? What is the journey your code takes from being pushed to your branch until it is deployed in production, ready to serve hundreds of millions of users? The usual process. For most of you, the process i...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694243378356/720eabae-73e0-4820-b877-be07c3237e66.png" width="500" height="auto" /></td>
-			<td>
-				<sup>Sat Sep 09 2023</sup><br />
-				<b><a href="https://devcodesthings.hashnode.dev/the-quartet-system-to-keep-your-gmail-clutter-free" target="_blank">The quartet system to keep your gmail clutter free.</a></b>
-				<p>How often do you open your Gmail, only to feel overwhelmed by the mix of junk and important items in your inbox? Everything is cluttered together in one single place, whether it's marketing newsletters, LinkedIn job alerts, interesting articles from ...</p>
 			</td>
 		</tr>
 </table>
